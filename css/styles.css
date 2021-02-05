@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #fed136;
+  color: #0C5F6E;
   text-decoration: none;
   background-color: transparent;
 }
@@ -10058,7 +10058,7 @@ img::-moz-selection {
   font-size: 0.75rem;
   color: #fff;
   text-transform: uppercase;
-  background-color: #fed136;
+  background-color: #0C5F6E;
   border: 0;
 }
 #mainNav .navbar-brand {
@@ -10304,7 +10304,7 @@ header.masthead .masthead-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #fed136;
+  background-color: #0C5F6E;
 }
 .timeline > li .timeline-image h4 {
   font-size: 10px;
